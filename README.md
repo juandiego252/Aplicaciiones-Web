@@ -1,4 +1,4 @@
-# Aplicaciiones-Web
+# Aplicaciiones-Web - Laboratorio 3
 
 * Jared Valenzuela
 * Joseph Yepez
