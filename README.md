@@ -1,4 +1,4 @@
-# Aplicaciiones-Web
+# Aplicaciones-Web
 
 ## Integrantes del Grupo
 
